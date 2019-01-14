@@ -1,4 +1,0 @@
-theme: jekyll-theme-cayman
-
-pattern = GeoPattern.generate('Mastering Markdown')
-
